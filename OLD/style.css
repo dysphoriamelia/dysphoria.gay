@@ -1,0 +1,22 @@
+body{
+    color: white;
+	margin:1em auto;
+	max-width:40em;
+	padding:0 .62em 3.24em;
+	font:1.5em/1.62 sans-serif;
+    line-height:1.0em;
+	background:#242424; 
+}
+h1,h2,h3 {
+	line-height:1.2;
+	color: #cccccc;
+}
+a:link,a:visited {
+       color: #55cefd;
+}
+a:hover {
+       color: #f6aab7;
+}
+ul {
+	line-height: 1.2em;
+}

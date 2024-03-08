@@ -1,0 +1,5 @@
+baseURL = 'https://dysphoria.gay/'
+languageCode = 'en-us'
+title = 'Dysphoria!'
+description = 'Resources for trans people!'
+theme = 'stack'
